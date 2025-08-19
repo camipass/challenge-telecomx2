@@ -1,4 +1,4 @@
-# Challenge Telecom X: Parte 2
+# Challenge Telecom X: Parte 2   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camipass/challenge-telecomx2/blob/main/TelecomX_LATAM_2.ipynb)
 ## :pushpin: Descripción
 
 Este proyecto forma parte del desafío de **Alura**, donde se examina el caso de **Telecom X**, una empresa que enfrenta una alta **tasa de evasión de clientes (churn)**. El objetivo principal de este análisis es construir un pipeline robusto que permita predecir la cancelación (churn) con alta precisión.
@@ -39,8 +39,7 @@ Este proyecto forma parte del desafío de **Alura**, donde se examina el caso de
 2. Carga el archivo `.ipynb` en Google Colab.
 3. Es importante ejecutar el código línea por línea para una correcta visualización de los datos.
 
-O también, puede acceder directamente al colab desde aquí [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camipass/challenge-telecomx/blob/main/TelecomX_LATAM.ipynb)
-
+O también, puede acceder directamente al colab desde aquí [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camipass/challenge-telecomx2/blob/main/TelecomX_LATAM_2.ipynb)
 ---
 
 ## ✨ Autor
